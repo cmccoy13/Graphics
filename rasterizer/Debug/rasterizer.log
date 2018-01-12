@@ -1,0 +1,12 @@
+﻿  main.cpp
+c:\users\cmmccoy\downloads\rasterizer\rasterizer\main.cpp(29): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\cmmccoy\downloads\rasterizer\rasterizer\main.cpp(62): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\cmmccoy\downloads\rasterizer\rasterizer\main.cpp(63): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\cmmccoy\downloads\rasterizer\rasterizer\main.cpp(64): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\cmmccoy\downloads\rasterizer\rasterizer\main.cpp(65): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\cmmccoy\downloads\rasterizer\rasterizer\main.cpp(66): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\cmmccoy\downloads\rasterizer\rasterizer\main.cpp(67): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\cmmccoy\downloads\rasterizer\rasterizer\main.cpp(153): warning C4018: '<': signed/unsigned mismatch
+c:\users\cmmccoy\downloads\rasterizer\rasterizer\main.cpp(186): warning C4018: '<': signed/unsigned mismatch
+  rasterizer.vcxproj -> C:\Users\cmmccoy\Downloads\rasterizer\rasterizer\Debug\rasterizer.exe
+  rasterizer.vcxproj -> C:\Users\cmmccoy\Downloads\rasterizer\rasterizer\Debug\rasterizer.pdb (Partial PDB)
