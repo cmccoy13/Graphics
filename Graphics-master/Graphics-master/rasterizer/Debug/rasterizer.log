@@ -1,0 +1,36 @@
+﻿  main.cpp
+c:\users\christopher\desktop\graphics-master\graphics-master\rasterizer\main.cpp(42): warning C4305: 'initializing': truncation from 'double' to 'float'
+c:\users\christopher\desktop\graphics-master\graphics-master\rasterizer\main.cpp(74): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\christopher\desktop\graphics-master\graphics-master\rasterizer\main.cpp(75): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\christopher\desktop\graphics-master\graphics-master\rasterizer\main.cpp(76): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\christopher\desktop\graphics-master\graphics-master\rasterizer\main.cpp(77): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\christopher\desktop\graphics-master\graphics-master\rasterizer\main.cpp(78): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\christopher\desktop\graphics-master\graphics-master\rasterizer\main.cpp(79): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\christopher\desktop\graphics-master\graphics-master\rasterizer\main.cpp(110): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+c:\users\christopher\desktop\graphics-master\graphics-master\rasterizer\main.cpp(167): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\christopher\desktop\graphics-master\graphics-master\rasterizer\main.cpp(168): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\christopher\desktop\graphics-master\graphics-master\rasterizer\main.cpp(174): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\christopher\desktop\graphics-master\graphics-master\rasterizer\main.cpp(175): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\christopher\desktop\graphics-master\graphics-master\rasterizer\main.cpp(177): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\christopher\desktop\graphics-master\graphics-master\rasterizer\main.cpp(178): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\christopher\desktop\graphics-master\graphics-master\rasterizer\main.cpp(179): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\christopher\desktop\graphics-master\graphics-master\rasterizer\main.cpp(180): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\christopher\desktop\graphics-master\graphics-master\rasterizer\main.cpp(190): warning C4018: '<': signed/unsigned mismatch
+c:\users\christopher\desktop\graphics-master\graphics-master\rasterizer\main.cpp(192): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\christopher\desktop\graphics-master\graphics-master\rasterizer\main.cpp(193): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+c:\users\christopher\desktop\graphics-master\graphics-master\rasterizer\main.cpp(195): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\christopher\desktop\graphics-master\graphics-master\rasterizer\main.cpp(196): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+c:\users\christopher\desktop\graphics-master\graphics-master\rasterizer\main.cpp(198): warning C4244: '=': conversion from 'unsigned int' to 'float', possible loss of data
+c:\users\christopher\desktop\graphics-master\graphics-master\rasterizer\main.cpp(199): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+c:\users\christopher\desktop\graphics-master\graphics-master\rasterizer\main.cpp(221): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\christopher\desktop\graphics-master\graphics-master\rasterizer\main.cpp(222): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\christopher\desktop\graphics-master\graphics-master\rasterizer\main.cpp(224): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\christopher\desktop\graphics-master\graphics-master\rasterizer\main.cpp(235): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+c:\users\christopher\desktop\graphics-master\graphics-master\rasterizer\main.cpp(236): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+c:\users\christopher\desktop\graphics-master\graphics-master\rasterizer\main.cpp(237): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+c:\users\christopher\desktop\graphics-master\graphics-master\rasterizer\main.cpp(243): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\christopher\desktop\graphics-master\graphics-master\rasterizer\main.cpp(244): warning C4244: 'initializing': conversion from 'float' to 'unsigned char', possible loss of data
+c:\users\christopher\desktop\graphics-master\graphics-master\rasterizer\main.cpp(245): warning C4244: 'initializing': conversion from 'float' to 'unsigned char', possible loss of data
+c:\users\christopher\desktop\graphics-master\graphics-master\rasterizer\main.cpp(246): warning C4244: 'initializing': conversion from 'float' to 'unsigned char', possible loss of data
+  rasterizer.vcxproj -> C:\Users\Christopher\Desktop\Graphics-master\Graphics-master\rasterizer\Debug\rasterizer.exe
+  rasterizer.vcxproj -> C:\Users\Christopher\Desktop\Graphics-master\Graphics-master\rasterizer\Debug\rasterizer.pdb (Partial PDB)
